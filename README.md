@@ -1,6 +1,6 @@
 # GameOfLife
 Implementation of Conway’s Game of Life, extended with custom species.
-The basic rules can be seen in https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+The basic rules can be seen in: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 The additional behavior of the different species can be seen in the table below.
 
